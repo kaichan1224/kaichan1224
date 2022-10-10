@@ -1,13 +1,9 @@
-Welcome to My acc 🐟!
+Welcome to My Page!
 #### interest
-- [Atcoder](https://atcoder.jp/users/kosakana1224)🐿
+- [Atcoder](https://atcoder.jp/users/kosakana1224)🟢
 - bot制作 
 - ML/DL
-
-#### hobby
-- music🎧(jpop,kpop,..etc)
-- game🎮
-- tennis🎾/table tennis🏓
+- GameAI
 
 [![kosakana1224's GitHub stats](https://github-readme-stats.vercel.app/api?username=kosakana1224&count_private=true&show_icons=true&theme=dracula)](https://github.com/kosakana1224/github-readme-stats)
 
