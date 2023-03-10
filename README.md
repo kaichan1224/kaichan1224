@@ -1,12 +1,12 @@
 Welcome to My Page!
 #### interest
 - [Atcoder](https://atcoder.jp/users/kosakana1224)🐢
-- bot制作 
 - ML/DL
 - GameAI
+- Unity
 
 #### link
-- [HomePage](https://kosakana1224.github.io/HomePage)
+- [HomePage](https://kosakana1224.github.io)
 - [qiita](https://qiita.com/kosakana1224)
 
 <a href="https://github.com/kosakana1224/kosakana1224/">
