@@ -6,7 +6,6 @@ Welcome to My Page!
 - Unity
 
 #### link
-- [HomePage](https://kosakana1224.github.io)
 - [qiita](https://qiita.com/kosakana1224)
 
 <a href="https://github.com/kosakana1224/kosakana1224/">
