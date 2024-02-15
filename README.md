@@ -17,4 +17,3 @@ Welcome to My Page!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaichan1224&theme=vue-dark&show_icons=true&layout=compact)](https://github.com/kaichan1224/github-readme-stats)
 
-[![AtCoder Trophies](https://atcoder-trophies.vercel.app/api/v1/atcoder?username=kosakana1224&theme=radical)](https://github.com/KATO-Hiro/AtCoderTrophies)
